@@ -86,6 +86,13 @@
 			<artifactId>jstl</artifactId>
 			<version>${jstl.version}</version>
 		</dependency>
+		
+		<!-- Comment out if don't demonstrate Spring Session with project SpringBoot_Thymeleaf_EssayLibrary -->
+		<dependency>
+			<groupId>SpringBoot_Thymeleaf_EssayLibrary-Domain</groupId>
+			<artifactId>SpringBoot_Thymeleaf_EssayLibrary-Domain</artifactId>
+			<version>1.0</version>
+		</dependency>
 
 	</dependencies>
 
