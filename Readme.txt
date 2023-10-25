@@ -8,7 +8,7 @@ Show authentication:
 http://localhost:8080/SpringMVCSpringSecurityXML/admin
 (jane/12345)
 ------------------------------------------------------------------------------------------
-Demonstrate Spring Session with SpringBoot_Thymeleaf_EssayLibrary project:
+Demonstrate Spring Session with SpringBoot_Thymeleaf_EssayLibrary project together:
 
 1. Run build.bat to compile and deploy 2 projects.
 
